@@ -1,44 +1,44 @@
 {
   "shows": {
-    "PRHN|252014|20260730|GOLD + 3D GlassL": {
+    "PRHN|251962|20260731|GOLD + 3D GlassL": {
       "venue": "Prasads Multiplex: Hyderabad",
-      "time": "08:00 AM",
-      "date": "20260730",
+      "time": "08:15 AM",
+      "date": "20260731",
+      "cat": "GOLD + 3D GlassL",
+      "price": "400.00",
+      "status": "2"
+    },
+    "PRHN|251963|20260731|GOLD + 3D GlassL": {
+      "venue": "Prasads Multiplex: Hyderabad",
+      "time": "11:05 AM",
+      "date": "20260731",
       "cat": "GOLD + 3D GlassL",
       "price": "400.00",
       "status": "1"
     },
-    "PRHN|252371|20260730|GOLD + 3D GlassL": {
+    "PRHN|251964|20260731|GOLD + 3D GlassL": {
       "venue": "Prasads Multiplex: Hyderabad",
-      "time": "10:55 AM",
-      "date": "20260730",
+      "time": "01:55 PM",
+      "date": "20260731",
       "cat": "GOLD + 3D GlassL",
       "price": "400.00",
-      "status": "0"
+      "status": "2"
     },
-    "PRHN|252018|20260730|GOLD + 3D GlassL": {
+    "PRHN|251966|20260731|GOLD + 3D GlassL": {
       "venue": "Prasads Multiplex: Hyderabad",
-      "time": "01:50 PM",
-      "date": "20260730",
+      "time": "08:15 PM",
+      "date": "20260731",
       "cat": "GOLD + 3D GlassL",
       "price": "400.00",
       "status": "1"
     },
-    "PRHN|252016|20260730|GOLD + 3D GlassL": {
+    "PRHN|251967|20260731|GOLD + 3D GlassL": {
       "venue": "Prasads Multiplex: Hyderabad",
-      "time": "08:20 PM",
-      "date": "20260730",
+      "time": "11:05 PM",
+      "date": "20260731",
       "cat": "GOLD + 3D GlassL",
       "price": "400.00",
-      "status": "1"
-    },
-    "PRHN|252019|20260730|GOLD + 3D GlassL": {
-      "venue": "Prasads Multiplex: Hyderabad",
-      "time": "11:15 PM",
-      "date": "20260730",
-      "cat": "GOLD + 3D GlassL",
-      "price": "400.00",
-      "status": "1"
+      "status": "2"
     },
     "PRHN|251968|20260801|GOLD + 3D GlassL": {
       "venue": "Prasads Multiplex: Hyderabad",
@@ -76,6 +76,46 @@
       "venue": "Prasads Multiplex: Hyderabad",
       "time": "11:35 PM",
       "date": "20260801",
+      "cat": "GOLD + 3D GlassL",
+      "price": "400.00",
+      "status": "2"
+    },
+    "PRHN|251974|20260802|GOLD + 3D GlassL": {
+      "venue": "Prasads Multiplex: Hyderabad",
+      "time": "08:45 AM",
+      "date": "20260802",
+      "cat": "GOLD + 3D GlassL",
+      "price": "400.00",
+      "status": "2"
+    },
+    "PRHN|251975|20260802|GOLD + 3D GlassL": {
+      "venue": "Prasads Multiplex: Hyderabad",
+      "time": "11:35 AM",
+      "date": "20260802",
+      "cat": "GOLD + 3D GlassL",
+      "price": "400.00",
+      "status": "2"
+    },
+    "PRHN|251976|20260802|GOLD + 3D GlassL": {
+      "venue": "Prasads Multiplex: Hyderabad",
+      "time": "02:25 PM",
+      "date": "20260802",
+      "cat": "GOLD + 3D GlassL",
+      "price": "400.00",
+      "status": "1"
+    },
+    "PRHN|251978|20260802|GOLD + 3D GlassL": {
+      "venue": "Prasads Multiplex: Hyderabad",
+      "time": "08:45 PM",
+      "date": "20260802",
+      "cat": "GOLD + 3D GlassL",
+      "price": "400.00",
+      "status": "2"
+    },
+    "PRHN|251979|20260802|GOLD + 3D GlassL": {
+      "venue": "Prasads Multiplex: Hyderabad",
+      "time": "11:35 PM",
+      "date": "20260802",
       "cat": "GOLD + 3D GlassL",
       "price": "400.00",
       "status": "2"
